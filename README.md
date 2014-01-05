@@ -1,3 +1,3 @@
-FooCoin (FOO)
+CharityCoin (CHR)
 
 Blah, blah, blah.
